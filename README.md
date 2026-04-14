@@ -20,7 +20,6 @@ El repositorio está organizado de la siguiente manera:
 ├── tareas/
 │   ├── tarea_01.pdf
 │   ├── tarea_02.pdf
-│   ├── soluciones/
 │   ├── ...
 │
 └── README.md
@@ -53,5 +52,3 @@ Cada tarea puede incluir:
 - **Institución:** Centro de Investigación en Matemáticas (CIMAT)
 
 - **Nivel:** Posgrado
-
-
